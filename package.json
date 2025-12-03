@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "path": "^0.12.7",
+    "playwright": "^1.57.0",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  },
+  "scripts": {}
+}
