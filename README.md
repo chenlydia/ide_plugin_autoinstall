@@ -4,4 +4,4 @@
 
 -----
 
-若想新增插件市场，需要新增对应的 ExtensionInstaller 子，实现searchAndNavigateToExtension(extensionName)、getDownloadURL()方法。
+若想新增插件市场，需要新增对应的 ExtensionInstaller 子类，实现searchAndNavigateToExtension(extensionName)、getDownloadURL()方法。
