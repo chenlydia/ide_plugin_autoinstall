@@ -1,0 +1,12 @@
+
+# Playwright
+node_modules/
+downloads/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.DS_Store
+.github/
+
